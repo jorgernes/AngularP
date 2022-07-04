@@ -29,3 +29,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 ## Problemas de autenticacion
 
 se tuvo que actualizar VScode para poder subir archivos.
+
+## Para lograr hacer push
+
+...se tuvo que crear una llave personal
